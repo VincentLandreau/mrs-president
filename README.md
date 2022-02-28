@@ -6,6 +6,10 @@
 
 Please document the project the better you can.
 
+# Tasks
+
+[Tableau des tâches](https://github.com/VincentLandreau/mrs-president/projects/1)
+
 # Startup the project
 
 The initial setup.
